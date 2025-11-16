@@ -1,0 +1,2 @@
+# lotsalog
+Learning Verilog
